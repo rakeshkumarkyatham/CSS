@@ -1,0 +1,23 @@
+.container{
+height: 465px;
+width: 88%;
+background-color: burlywood;
+font-size: 30px;
+padding: 30px;
+}
+.banner{
+background-color: tomato;
+    text-align: center;
+    color: white;
+    height: 130px;
+    width: 100%;
+
+}
+.h1{
+position: relative;
+bottom: -60px; 
+ 
+}
+body{background-color: yellowgreen;
+
+}

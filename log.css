@@ -1,0 +1,37 @@
+    h1{
+        text-align: center;
+        color: cyan;
+    }
+  body{
+background-image:url("../IMAGES/pattern.jfif");
+width: 100%;
+position: absolute;
+background-size: cover;
+}
+.box {
+ width: 35%;
+ height: 350px;
+ text-align: center;
+ margin-top: 200px;
+ margin-left: 550px;
+ background-color: rgba(0,0,0,0.6);
+ border-radius: 10px;
+
+    }
+    .form{
+        text-align: center;
+        color: cornsilk;
+        margin-top: 60px;
+    }
+    .f1{
+        text-align: center;
+        color: cornsilk;
+        margin-top: 60px;
+
+    }
+    .f2{
+        text-align: center;
+        color: cornsilk;
+        margin-top: 60px;
+
+    }

@@ -1,0 +1,49 @@
+.mainbox{
+background-color: chocolate;
+width: 100%;
+height: 800px;
+}
+.a{
+    position:fixed;
+}
+.b{
+    position:absolute;
+}
+.c{
+    position:static;
+}
+.d{
+    position:relative;
+    background-image: radial-gradient(red,blue,brown);border: 2px black;
+    border-radius: 100px;
+    width: 100%;
+height: 800px;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    transition: 1s;
+}
+h1:hover{
+    transform:scale(2,2);
+/* }
+.abc{
+    border: 2px black;
+    border-radius: 100px;
+    animation-name: rk technologies solutions;
+    animation-duration:  3s;
+    animation-iteration-count: 3; */
+
+}
+/* @keyframes a{
+from{
+    background-color:green; height: 100px;width: 100px;
+}to{   background-color:rebeccapurple; height: 100px;width: 500px;}
+}
+@keyframes a{
+    0% {background-color:green; height: 100px;width: 100px;}
+    25% {background-color:green; height: 100px;width: 100px;}
+    50% {background-color:green; height: 100px;width: 100px;}
+    75% {background-color:green; height: 100px;width: 100px;}
+    100% {background-color:green; height: 100px;width: 100px;}
+} */
